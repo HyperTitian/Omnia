@@ -1,0 +1,1 @@
+Packages are the main unit for organizing software in [[ROS]]. A package may contain ROS runtime processes ([[Nodes | nodes]]), a ROS-dependent library, datasets, configuration files, or anything else that is usefully organized together. Packages are the most atomic build item and release item in ROS meaning that the most granular thing you can build and release is a package.  

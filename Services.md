@@ -1,0 +1,1 @@
+The publish / subscribe model is a very flexible communication paradigm, but it's many-to-many, one-way transport is not appropriate for request / reply interactions, which are often required in a distributed system. Services are defined by a pair of message structures: one for the request and one for the reply.

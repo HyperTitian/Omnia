@@ -1,0 +1,1 @@
+Service descriptions, stored in *my_package/srv/MyServiceType.srv*, define the request and response data structures for [[Services | services]] in [[ROS]]

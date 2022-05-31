@@ -1,0 +1,1 @@
+Message descriptions, stored in *my_package/msg/MyMessageType.msg*, define the data structures for [[Messages | messages]] sent in [[ROS]].

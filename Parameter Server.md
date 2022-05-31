@@ -1,0 +1,1 @@
+The Parameter Server allows data to be stored by key in a central location. It is currently part of the [[ROS]] Master.

@@ -1,0 +1,1 @@
+Nodes are processes that perform computation. A [[ROS]] node is written with the use of a ROS client library, such as roscpp or rospy.

@@ -1,0 +1,1 @@
+Nodes communicate with each other by passing messages. A message is simply a data structure, comprising of typed fields. STandard primitive types (integer, floating point, boolean, etc.) are supported, as are arrays of primitive types and dictionaries. Messages can include arbitrarily nested structures and arrays (much like C structs).

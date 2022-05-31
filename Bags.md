@@ -1,0 +1,1 @@
+Bags are a format for saving and playing back [[ROS]] [[Messages | message]] data. Bags are an important mechanism for storing data, such as sensor data, that can be difficult to collect but is necessary for developing and testing algorithms.

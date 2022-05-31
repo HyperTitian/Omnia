@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "f361632bb77b9998",
+    "type": "split",
+    "children": [
+      {
+        "id": "f528b47492f57030",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba1e535ab6838f2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d9671739a8b730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d0bbd19a20d2e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94db020a6feb72ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aedea882dc9d9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0810d66d4576648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c17846198281f471",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e9ba3e479bf21bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f528b47492f57030",
+  "lastOpenFiles": [
+    "Topics.md",
+    "Bags.md",
+    "Services.md",
+    "Service Types.md",
+    "Packages.md",
+    "Parameter Server.md",
+    "Nodes.md",
+    "Message Types.md",
+    "Messages.md",
+    "ROS.md"
+  ]
+}
